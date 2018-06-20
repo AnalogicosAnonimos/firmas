@@ -21,4 +21,4 @@ objetivo: modificar el archivo washere.v4p, añadir tu nombre
   * GitHubDesktop help: https://help.github.com/desktop/guides/getting-started-with-github-desktop/
   * git commands: https://gist.github.com/Kerry350/2043530
 
-## editad el Readme si lo creeis oportuno
+## editad el Readme si lo creeis oportuno...
